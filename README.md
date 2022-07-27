@@ -6,4 +6,3 @@ Project details-
 It is more like tinder.The only difference is that this website is for our pet dogs.
 This is just a learning website and thus contains no specific contact details and social handles. 
 
-
